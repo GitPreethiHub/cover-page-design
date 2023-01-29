@@ -133,7 +133,7 @@ To develop a website to display the cover page design of a book
 
 ![Server](./BookServer.png)
 
-![Output](./BookOutput.png)
+![Output](./bookOutput.png)
 
 ## Result:
      
